@@ -1,12 +1,10 @@
 <header class="cabecera">
             <div class="logo">
-                <img src="img/logo.jpg" alt="">
+                <img src="img/logo.jpg" alt="logo">
             </div>
-            <div class="social">
-                <div class="link">
-                    <a href="#" class=""> <i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                </div>
-            </div>
+            <ul class="social">
+                <li class="face"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                <li class="twiter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li class="insta"><a href="#"><i class="fab fa-instagram"></i></a></li>
+            </ul>
         </header>
